@@ -9,6 +9,12 @@
    <bundle id="org.sbml.jsbml" version="1.2.0">
       <category name="java_libs"/>
    </bundle>
+   <bundle id="com.gmail.gcolaianni5.jris" version="1.0.0">
+      <category name="java_libs"/>
+   </bundle>
+   <bundle id="com.googlecode.ez-vcard" version="0.10.2">
+      <category name="java_libs"/>
+   </bundle>
    <category-def name="java_libs" label="Java libraries">
       <description>
          Third party Java libraries.
