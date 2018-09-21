@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: JRis
+Bundle-SymbolicName: com.gmail.gcolaianni5.jris
+Bundle-Version: 1.0.0
+Bundle-Vendor: Gianluca Colaianni
+Bundle-ClassPath: lib/jris-1.0.0.jar
+Automatic-Module-Name: com.gmail.gcolaianni5.jris
+Export-Package: com.gmail.gcolaianni5.jris.bean,
+ com.gmail.gcolaianni5.jris.engine,
+ com.gmail.gcolaianni5.jris.exception

@@ -12,6 +12,7 @@
 	</parent>
 
 	<modules>
+		<module>com.gmail.gcolaianni5.jris</module>
 		<module>com.googlecode.ez-vcard</module>
 		<module>org.jdom2</module>
 		<module>org.jsoup</module>
