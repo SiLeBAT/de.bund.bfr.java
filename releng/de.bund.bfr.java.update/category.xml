@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <bundle id="org.jsoup" version="1.9.2">
+      <category name="java_libs"/>
+   </bundle>
+   <category-def name="java_libs" label="Java libraries">
+      <description>
+         Third party Java libraries.
+      </description>
+   </category-def>
+</site>
