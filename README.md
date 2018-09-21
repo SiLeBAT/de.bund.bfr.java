@@ -4,5 +4,6 @@
 Third party Java libraries used in the BfR. The libraries are available in the update site: https://dl.bintray.com/silebat/java/.
 
 Included libraries:
+* com.googlecode.ez-vcard 0.10.2
 * org.jdom 2.0.1
 * org.jsoup 1.9.2

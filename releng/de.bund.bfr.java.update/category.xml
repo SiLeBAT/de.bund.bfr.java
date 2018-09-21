@@ -6,6 +6,9 @@
    <bundle id="org.jdom2" version="2.0.1">
       <category name="java_libs"/>
    </bundle>
+   <bundle id="com.googlecode.ez-vcard" version="0.10.2">
+      <category name="java_libs"/>
+   </bundle>
    <category-def name="java_libs" label="Java libraries">
       <description>
          Third party Java libraries.

@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Ez-vcard
+Bundle-SymbolicName: com.googlecode.ez-vcard
+Bundle-Version: 0.10.2
+Bundle-Vendor: Michael Angstadt
+Automatic-Module-Name: com.googlecode.ez-vcard
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Export-Package: com.github.mangstadt.vinnie,
+ com.github.mangstadt.vinnie.codec,
+ com.github.mangstadt.vinnie.io,
+ com.github.mangstadt.vinnie.validate,
+ ezvcard,
+ ezvcard.io,
+ ezvcard.io.chain,
+ ezvcard.io.html,
+ ezvcard.io.json,
+ ezvcard.io.scribe,
+ ezvcard.io.text,
+ ezvcard.io.xml,
+ ezvcard.parameter,
+ ezvcard.property,
+ ezvcard.util,
+ ezvcard.util.org.apache.commons.codec,
+ ezvcard.util.org.apache.commons.codec.binary
+Bundle-ClassPath: lib/ez-vcard-0.10.2.jar,
+ lib/vinnie-2.0.0.jar
